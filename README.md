@@ -1,0 +1,1 @@
+Este proyecto es un juego interactivo de "Amigo Secreto" desarrollado con HTML, CSS y JavaScript. Permite a los usuarios sortear nombres de forma aleatoria y de esta forma saber quien sera tu amigo secreto.
